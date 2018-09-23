@@ -26,3 +26,8 @@ Prototype Description:
 * Dataset : [State Farm Distracted Driver Detection | Kaggle](https://www.kaggle.com/c/state-farm-distracted-driver-detection)
 * Dataset has multiple categories but we have merged these into 3 categories ,i.e., safe, unsafe and moderate driving. We have resized, grayscaled and also augmented the data (with various rotations,shifts,etc.), so that model will be more fast and  robust(independent of vehicles/drivers). 
 * Finally a Convolutional neural network has been used to train the predictive model.
+
+### Accuracy
+ <p align="center">
+    <img src="pics/acc.png" alt="accuracy graphs" width="300"/> 
+</p>
