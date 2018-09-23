@@ -28,6 +28,6 @@ Prototype Description:
 * Finally a Convolutional neural network has been used to train the predictive model.
 
 ### Accuracy
- <p align="center">
-    <img src="pics/acc.png" alt="accuracy graphs" width="300"/> 
+ <p align="left">
+    <img src="pics/accuracy.png" alt="accuracy graphs" width="500"/> 
 </p>
